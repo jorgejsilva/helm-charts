@@ -1,0 +1,35 @@
+apiVersion: v1
+entries:
+  chart-configmap:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-11-26T11:25:02.3252305-03:00"
+    description: Chart configmap do curso v0.1.1
+    digest: 6ccadee82e52d63170d0ea11435cb5a6ec958ff3d894d524b73232d08958b13d
+    name: chart-configmap
+    type: application
+    urls:
+    - chart-configmap-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-11-26T11:25:02.3247217-03:00"
+    description: Chart configmap do curso
+    digest: d0e8a5706dc89118b4a015b1fb2b5f6e2080db786b40c14491b88076b39fd9c6
+    name: chart-configmap
+    type: application
+    urls:
+    - chart-configmap-0.1.0.tgz
+    version: 0.1.0
+  queijos:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-11-26T11:25:02.325798-03:00"
+    description: chart dos queijos
+    digest: 1838d2c436440e90f8d88967d05e847c637fee8174861084da07c81d19f24423
+    name: queijos
+    type: application
+    urls:
+    - queijos-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-11-26T11:25:02.3231949-03:00"
