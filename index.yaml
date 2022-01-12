@@ -3,7 +3,7 @@ entries:
   chart-configmap:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-11-26T11:25:02.3252305-03:00"
+    created: "2022-01-12T17:11:02.5703953-03:00"
     description: Chart configmap do curso v0.1.1
     digest: 6ccadee82e52d63170d0ea11435cb5a6ec958ff3d894d524b73232d08958b13d
     name: chart-configmap
@@ -13,7 +13,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-11-26T11:25:02.3247217-03:00"
+    created: "2022-01-12T17:11:02.5701212-03:00"
     description: Chart configmap do curso
     digest: d0e8a5706dc89118b4a015b1fb2b5f6e2080db786b40c14491b88076b39fd9c6
     name: chart-configmap
@@ -24,7 +24,17 @@ entries:
   queijos:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-11-26T11:25:02.325798-03:00"
+    created: "2022-01-12T17:11:02.5710518-03:00"
+    description: chart dos queijos
+    digest: b61baacf875c63934fe092752610609c58cc0fa1118089f383cd0b98a6939bc4
+    name: queijos
+    type: application
+    urls:
+    - queijos-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-12T17:11:02.57071-03:00"
     description: chart dos queijos
     digest: 1838d2c436440e90f8d88967d05e847c637fee8174861084da07c81d19f24423
     name: queijos
@@ -32,4 +42,4 @@ entries:
     urls:
     - queijos-0.1.0.tgz
     version: 0.1.0
-generated: "2021-11-26T11:25:02.3231949-03:00"
+generated: "2022-01-12T17:11:02.5697087-03:00"
